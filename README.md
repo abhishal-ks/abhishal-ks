@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate Web Developer who loves building 
 - 👯 I’m looking to collaborate on: **Full Stack Projects**
 - 🌱 I’m currently learning: **System Design** and **AI**
 - 📫 How to reach me: [Email](abhishalsharma2002@gmail.com) | [LinkedIn](https://www.linkedin.com/in/abhishal-sharma-22b606209/) | [X](https://x.com/AbhishalSharma) | [Personal Website](https://abhishal-ks.github.io/Abhishal-Portfolio/)
-- ⚡ Fun fact: Yes, I'm Iron Man. You can talk to me in Japanese too
+- ⚡ Fun fact: Yes, I'm Iron Man. You can talk to me in Japanese too. We can discuss academic philosophy
 
 ## 🛠️ Tech Stack
 
