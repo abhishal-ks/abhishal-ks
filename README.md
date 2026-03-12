@@ -1,6 +1,6 @@
 # 🙏 Kon'nichiwa World 🌐, **Abhishal KS** here
 
-Welcome to my GitHub profile! I'm a passionate Web Developer who loves building web apps, solving problems, and learning new technologies.
+Welcome to my GitHub profile! I'm a passionate Web and Mobile App Developer who loves building products, solving problems, and learning new technologies.
 
 ## 🚀 About Me
 
