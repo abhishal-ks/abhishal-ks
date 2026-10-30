@@ -1,5 +1,7 @@
 # 🙏 Kon'nichiwa World 🌐, **Abhishal KS** here
 
+<img width="280" height="210" alt="212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c" src="https://github.com/user-attachments/assets/76ff3716-136c-4d69-95cc-e6b9d009e21d" />
+
 Welcome to my GitHub profile! I'm a passionate Web and Mobile App Developer who loves building products, solving problems, and learning new technologies.
 
 ## 🚀 About Me
