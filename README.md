@@ -1,6 +1,6 @@
-<img width="550" height="250" alt="226190894-18e959ba-d458-4a94-ac44-790190f2a947" src="https://github.com/user-attachments/assets/cc6bc5f4-bdd3-4275-8935-aca4ad916ec3" />
+# 👋 Kon'nichiwa World 🌐, **Abhishal KS** here
 
-<img width="410" height="410" alt="giphy" src="https://github.com/user-attachments/assets/559ef31e-3762-408a-8e81-e09ec6d6e60c" />
+<img width="750" height="422" alt="238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d" src="https://github.com/user-attachments/assets/139b9fbb-564b-470e-855f-8274c7c715f9" />
 
 Welcome to my GitHub profile! I'm a passionate Web and Mobile App Developer who loves building products, solving problems, and learning new technologies.
 
