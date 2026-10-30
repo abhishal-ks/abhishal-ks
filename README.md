@@ -1,6 +1,6 @@
 <img width="550" height="250" alt="226190894-18e959ba-d458-4a94-ac44-790190f2a947" src="https://github.com/user-attachments/assets/cc6bc5f4-bdd3-4275-8935-aca4ad916ec3" />
 
-<img width="480" height="480" alt="giphy" src="https://github.com/user-attachments/assets/559ef31e-3762-408a-8e81-e09ec6d6e60c" />
+<img width="410" height="410" alt="giphy" src="https://github.com/user-attachments/assets/559ef31e-3762-408a-8e81-e09ec6d6e60c" />
 
 Welcome to my GitHub profile! I'm a passionate Web and Mobile App Developer who loves building products, solving problems, and learning new technologies.
 
